@@ -1,0 +1,6 @@
+function doNothing() {}
+
+function someFunction() {
+  return;
+  console.log("This will never be executed");
+}
